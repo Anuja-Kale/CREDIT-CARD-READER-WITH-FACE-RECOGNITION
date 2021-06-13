@@ -13,28 +13,14 @@ FACE RECOGNITION SYSTEMS
  In general, an automatic face recognition system is comprised of three steps. Their basic flowchart is given in Figure 1. Among them, detection may include face edge detection, segmentation and localization, namely obtaining a pre-processed intensity face image from an input scene, either simple or cluttered, locating its position and segmenting the image out of the background. Feature extraction may denote the acquirement of the image features from the image such as visual features, statistical pixel features; transform coefficient features, and algebraic features, with emphasis on the algebraic features, which represent the intrinsic attributes of an image
 
  
-Fig 1: Face Recognition Process Flow
-
-
-![image](https://user-images.githubusercontent.com/62926535/121796821-83b7e000-cc39-11eb-89a9-1d7902e53aeb.png)
+Picture 1.png![Picture 1](https://user-images.githubusercontent.com/62926535/121796856-caa5d580-cc39-11eb-818a-05793d32a07d.png)
+Fig - Face Recognition Process Flow
 
 
 BLOCK DIAGRAM
 
+Screenshot 2021-06-13 at 11.24.50 AM![Screenshot 2021-06-13 at 11 24 50 AM](https://user-images.githubusercontent.com/62926535/121796876-03de4580-cc3a-11eb-8bc1-fa5f778df430.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/62926535/121796828-8fa3a200-cc39-11eb-9b3c-dd7b29b89471.png)
 
 
 
