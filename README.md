@@ -11,15 +11,31 @@ Credit card fraud is the biggest risk in credit card transactions. Credit cards 
 
 FACE RECOGNITION SYSTEMS
  In general, an automatic face recognition system is comprised of three steps. Their basic flowchart is given in Figure 1. Among them, detection may include face edge detection, segmentation and localization, namely obtaining a pre-processed intensity face image from an input scene, either simple or cluttered, locating its position and segmenting the image out of the background. Feature extraction may denote the acquirement of the image features from the image such as visual features, statistical pixel features; transform coefficient features, and algebraic features, with emphasis on the algebraic features, which represent the intrinsic attributes of an image
-
+ Face Recognition Process Flow 
  
-Picture 1.png![Picture 1](https://user-images.githubusercontent.com/62926535/121796856-caa5d580-cc39-11eb-818a-05793d32a07d.png)
-Fig - Face Recognition Process Flow
+ 
+
+![Picture 1](https://user-images.githubusercontent.com/62926535/121796887-1b1d3300-cc3a-11eb-8b02-7a18b14f7398.png)
 
 
-BLOCK DIAGRAM
 
-Screenshot 2021-06-13 at 11.24.50 AM![Screenshot 2021-06-13 at 11 24 50 AM](https://user-images.githubusercontent.com/62926535/121796876-03de4580-cc3a-11eb-8bc1-fa5f778df430.png)
+
+
+
+BLOCK DIAGRAM 
+
+
+
+
+
+
+
+
+
+![Screenshot 2021-06-13 at 11 24 50 AM](https://user-images.githubusercontent.com/62926535/121796902-41db6980-cc3a-11eb-81b6-984f872f4dcb.png)
+
+
+
 
 
 
