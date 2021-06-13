@@ -24,7 +24,7 @@ SOFTWARE COMPONENTS -
 FACE RECOGNITION SYSTEMS-
 
 
-In general, an automatic face recognition system is comprised of three steps. Their basic flowchart is given in Figure 1. Among them, detection may include face edge detection, segmentation and localization, namely obtaining a pre-processed intensity face image from an input scene, either simple or cluttered, locating its position and segmenting the image out of the background. Feature extraction may denote the acquirement of the image features from the image such as visual features, statistical pixel features; transform coefficient features, and algebraic features, with emphasis on the algebraic features, which represent the intrinsic attributes of an image
+In general, an automatic face recognition system is comprised of three steps. Their basic flowchart is given in Figure . Among them, detection may include face edge detection, segmentation and localization, namely obtaining a pre-processed intensity face image from an input scene, either simple or cluttered, locating its position and segmenting the image out of the background. Feature extraction may denote the acquirement of the image features from the image such as visual features, statistical pixel features; transform coefficient features, and algebraic features, with emphasis on the algebraic features, which represent the intrinsic attributes of an image
  
  
  
