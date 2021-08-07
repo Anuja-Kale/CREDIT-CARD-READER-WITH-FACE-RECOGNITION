@@ -28,28 +28,7 @@ In general, an automatic face recognition system is comprised of three steps. Th
  
  
  
- Face Recognition Process Flow 
- 
- 
 
-![Picture 1](https://user-images.githubusercontent.com/62926535/121796887-1b1d3300-cc3a-11eb-8b02-7a18b14f7398.png)
-
-
-
-
-
-
-BLOCK DIAGRAM 
-
-
-
-
-
-
-
-
-
-![Screenshot 2021-06-13 at 11 24 50 AM](https://user-images.githubusercontent.com/62926535/121796902-41db6980-cc3a-11eb-81b6-984f872f4dcb.png)
 
 
 
